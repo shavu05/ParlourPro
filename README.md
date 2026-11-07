@@ -87,6 +87,7 @@ The application replaces manual record-keeping with a secure, digital solution t
 ```bash
 git clone https://github.com/shavu05/ParlourPro.git
 cd ParlourPro
+```
 
 ---
 
