@@ -94,20 +94,11 @@ cd ParlourPro
 
 ## Project Screenshots
 
-### Homepage
-![ParlourPro Homepage](./01_homepage.png)
-
-### Login
-![ParlourPro Login](./02_login.png)
-
 ### Dashboard
 ![ParlourPro Dashboard](./03_dashboard.png)
 
 ### Staff Management
 ![ParlourPro Staff Management](./05_staff.png)
-
-### Customer Management
-![ParlourPro Customer Management](./06_customers.png)
 
 ### Records
 ![ParlourPro Records](./07_records.png)
