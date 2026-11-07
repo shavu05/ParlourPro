@@ -90,24 +90,24 @@ cd ParlourPro
 
 ---
 
-## 🖼️ Project Screenshots
+---
 
-The following screenshots show the main interfaces of ParlourPro.
+## Project Screenshots
 
 ### Homepage
-![ParlourPro Homepage](https://raw.githubusercontent.com/shavu05/ParlourPro/2040947/01_homepage.png)
+![ParlourPro Homepage](./01_homepage.png)
 
 ### Login
-![ParlourPro Login](https://raw.githubusercontent.com/shavu05/ParlourPro/2040947/02_login.png)
+![ParlourPro Login](./02_login.png)
 
 ### Dashboard
-![ParlourPro Dashboard](https://raw.githubusercontent.com/shavu05/ParlourPro/2040947/03_dashboard.png)
+![ParlourPro Dashboard](./03_dashboard.png)
 
 ### Staff Management
-![ParlourPro Staff Management](https://raw.githubusercontent.com/shavu05/ParlourPro/2040947/05_staff.png)
+![ParlourPro Staff Management](./05_staff.png)
 
 ### Customer Management
-![ParlourPro Customer Management](https://raw.githubusercontent.com/shavu05/ParlourPro/2040947/06_customers.png)
+![ParlourPro Customer Management](./06_customers.png)
 
 ### Records
-![ParlourPro Records](https://raw.githubusercontent.com/shavu05/ParlourPro/2040947/07_records.png)
+![ParlourPro Records](./07_records.png)
